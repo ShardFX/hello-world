@@ -12,3 +12,6 @@ Also, spicy is false advertising in the US. US Spicy = Asian mild.
 Why are you reading this? This is just a tutorial for me.
 
 はじめまして。私ハイカルです。１９歳です。眠いよ。じゃあ、おやすみなさい。
+
+printf("Hello World!\n"); // displays "Hello World!"
+
